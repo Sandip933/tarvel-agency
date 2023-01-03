@@ -46,3 +46,14 @@ h2{
 p{
     margin: 15px 0px;
 }
+
+@media (max-width:601px){
+    .half{
+        width: 100%;
+        float: none;
+    }
+
+    .hide-small{
+        display: none;
+    }
+}
