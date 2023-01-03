@@ -7,7 +7,6 @@
 html {
     box-sizing: border-box
 }
-
 html {
     -ms-text-size-adjust: 100%;
     -webkit-text-size-adjust: 100%
@@ -23,40 +22,27 @@ html {
     bottom: 0
 }
 
-.container {
+.container{
     padding: 0.15px 16px;
 }
 
-.amber {
+.amber{
     background-color: yellowgreen;
 }
 
-h2 {
+h2{
     margin: 10px 0px;
 }
 
-.half {
+.half{
     width: 50%;
     float: left;
 }
 
-.topbar {
+.topbar{
     border-top: 6px solid orange !important
 }
 
-p {
+p{
     margin: 15px 0px;
-}
-
-
-@media (min-width:601px) {
-
-    .half{
-        float: none;
-        width: 100%;
-    }
-
-    .hide-small{
-        display: none;
-    }
 }
