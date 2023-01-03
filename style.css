@@ -1,0 +1,48 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    box-sizing: border-box
+}
+html {
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%
+}
+
+.display-container {
+    position: relative
+}
+
+.display-bottomleft {
+    position: absolute;
+    left: 0;
+    bottom: 0
+}
+
+.container{
+    padding: 0.15px 16px;
+}
+
+.amber{
+    background-color: yellowgreen;
+}
+
+h2{
+    margin: 10px 0px;
+}
+
+.half{
+    width: 50%;
+    float: left;
+}
+
+.topbar{
+    border-top: 6px solid orange !important
+}
+
+p{
+    margin: 15px 0px;
+}
